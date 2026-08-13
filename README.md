@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Charan Kumar Kodidala</h1>
-<h3 align="center">Software Development Engineer in the making | Python • JavaScript</h3>
+<h3 align="center">Software Development Engineer in the making | Python • SQL • JavaScript</h3>
 
 <p align="center">
   <a href="https://github.com/charankumar62" target="_blank"><img src="https://img.shields.io/badge/GitHub-charankumar62-181717?style=flat&logo=github" /></a>
   <a href="https://www.instagram.com/charan_kodidala/" target="_blank"><img src="https://img.shields.io/badge/Instagram-charan__kodidala-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="mailto:charankumar2005kodidala@gmail.com"><img src="https://img.shields.io/badge/Email-charankumar2005kodidala%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/charan-kumar-kodidala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Charan%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://charankumarkodidala.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C7B7?style=flat&logo=netlify&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,7 +19,8 @@
 - 🎯 Long-term vision: build businesses that create job opportunities and technical growth for others
 - ⚡ Driven by curiosity, innovation, and a desire to make a lasting impact through technology
 - 📫 Reach me at **charankumar2005kodidala@gmail.com**
-- 🌐 Portfolio: [Charan-Kumar-Kodidala-portfilo](https://github.com/charankumar62/Charan-Kumar-Kodidala-portfilo)
+- 🌐 **Live Portfolio:** [charankumarkodidala.netlify.app](https://charankumarkodidala.netlify.app/)
+- 💻 **GitHub Repo:** [Charan-Kumar-Kodidala-portfilo](https://github.com/charankumar62/Charan-Kumar-Kodidala-portfilo)
 
 ---
 
@@ -85,7 +87,7 @@
 |---|---|
 | Python Pet Game | [PC-ABE351D9DE3BF1BE](https://www.mygreatlearning.com/project-certificate/PC-ABE351D9DE3BF1BE) |
 | Rock Paper Scissors | [PC-2D26DAF27B6EC9DD](https://www.mygreatlearning.com/project-certificate/PC-2D26DAF27B6EC9DD) |
-| Build-Your-Own Password Generator | [PC-BF59BAEE7CF69010](https://www.mygreatlearning.com/project-certificate/PC-BF59BAEE7CF69010) |
+| Password Geneartor | [PC-BF59BAEE7CF69010](https://www.mygreatlearning.com/project-certificate/PC-BF59BAEE7CF69010) |
 | Trivia Quiz Game | [PC-E0CC60D8B9EE7E07](https://www.mygreatlearning.com/project-certificate/PC-E0CC60D8B9EE7E07) |
 
 ---
@@ -113,6 +115,8 @@
 ---
 
 ### 🌐 Portfolio Website
+
+**🚀 Live Site:** [https://charankumarkodidala.netlify.app/](https://charankumarkodidala.netlify.app/)
 
 This repo contains my personal portfolio. To run locally:
 
