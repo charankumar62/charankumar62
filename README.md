@@ -85,7 +85,7 @@
 |---|---|
 | Python Pet Game | [PC-ABE351D9DE3BF1BE](https://www.mygreatlearning.com/project-certificate/PC-ABE351D9DE3BF1BE) |
 | Rock Paper Scissors | [PC-2D26DAF27B6EC9DD](https://www.mygreatlearning.com/project-certificate/PC-2D26DAF27B6EC9DD) |
-| SQL Database Project | [PC-BF59BAEE7CF69010](https://www.mygreatlearning.com/project-certificate/PC-BF59BAEE7CF69010) |
+| Build-Your-Own Password Generator | [PC-BF59BAEE7CF69010](https://www.mygreatlearning.com/project-certificate/PC-BF59BAEE7CF69010) |
 | Trivia Quiz Game | [PC-E0CC60D8B9EE7E07](https://www.mygreatlearning.com/project-certificate/PC-E0CC60D8B9EE7E07) |
 
 ---
